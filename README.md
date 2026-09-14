@@ -2,6 +2,8 @@
 
 基于 [GitHub Spec Kit](https://github.com/github/spec-kit) 规格驱动开发（Spec-Driven Development）流程构建的 Hello World 示例页面：打开网页即展示问候文本 **"Hello Spec-Kit World!"**，点击按钮可在它与 **"You clicked me!"** 之间来回切换。
 
+**在线访问：<https://lemonkz.github.io/spec-kit-hello-world/>**（GitHub Pages 自动部署）
+
 ## 功能
 
 - 页面初始加载展示问候文本 "Hello Spec-Kit World!"
